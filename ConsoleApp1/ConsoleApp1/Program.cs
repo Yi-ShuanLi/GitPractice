@@ -29,6 +29,7 @@ namespace ConsoleApp1
             Console.WriteLine("dog4");
             Console.WriteLine("cat1");
             Console.WriteLine("cat2");
+            Console.WriteLine("cat3");
             Console.ReadKey();
         }
     }
