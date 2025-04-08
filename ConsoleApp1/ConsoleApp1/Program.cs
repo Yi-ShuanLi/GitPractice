@@ -30,6 +30,7 @@ namespace ConsoleApp1
             Console.WriteLine("cat1");
             Console.WriteLine("cat2");
             Console.WriteLine("cat3");
+            Console.WriteLine("cat4");
             Console.ReadKey();
         }
     }
